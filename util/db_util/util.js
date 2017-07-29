@@ -295,16 +295,6 @@ const updateArticle = function (userid, articleid, updateThings) {
   })
 };
 
-/*
- if (require.main === module) {
- createNewUser('aa', 'aa', 'aa')
- .then((result) => {
- })
- .catch((err) => {
- console.error(err);
- })
- }
- */
 module.exports = {
   createNewUser,
   isUserExist,
