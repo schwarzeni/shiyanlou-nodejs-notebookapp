@@ -11,6 +11,7 @@
 - express-vue   vue模板后端渲染
 - vueJS         前端部分页面的处理
 - bootstrap     前端css库
+- marked        markdown转换
 - vue-resource  前端处理ajax请求
 
 ## 使用
