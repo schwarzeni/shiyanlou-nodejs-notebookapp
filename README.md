@@ -1,7 +1,8 @@
 # shiyanlou-nodejs-notebookapp
 ---
 ## 介绍
-实现私人笔记功能，支持makrdonw书写
+- 实现私人笔记功能，支持makrdonw书写
+- 实验楼课程作业 [Node.js实现私人笔记(会员)](https://www.shiyanlou.com/courses/446)
 
 ## 使用的主要技术以及第三方模块
 - mongodb       用于数据存储
